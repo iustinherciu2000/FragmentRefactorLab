@@ -1,7 +1,5 @@
 package edu.temple.fragmentrefactor
 
-package edu.temple.fragmentrefactor
-
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
